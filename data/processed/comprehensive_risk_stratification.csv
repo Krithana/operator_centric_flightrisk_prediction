@@ -1,0 +1,6 @@
+Risk Category,Probability Range,Number of Flights,Percentage of Total,Actual Severe Count,Actual Severe Rate,Expected Rate,Risk Alignment
+Very Low Risk,0.0-0.2,11927,70.17%,885,7.42%,10.0%,✅
+Low Risk,0.2-0.4,1329,7.82%,309,23.25%,30.0%,✅
+Medium Risk,0.4-0.6,196,1.15%,70,35.71%,50.0%,✅
+High Risk,0.6-0.8,267,1.57%,188,70.41%,70.0%,✅
+Very High Risk,0.8-1.0,3278,19.29%,3146,95.97%,90.0%,✅

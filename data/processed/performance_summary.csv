@@ -1,0 +1,2 @@
+model_type,accuracy,precision,recall,f1_score,roc_auc,avg_precision,readiness_score,deployment_ready
+RandomForestClassifier,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True

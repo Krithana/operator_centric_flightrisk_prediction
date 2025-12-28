@@ -1,0 +1,5 @@
+Validation Method,Accuracy,F1-Score,ROC-AUC,Status
+Train-Test Split,1.0000,1.0000,1.0000,✅ PASS
+5-Fold CV,1.0000,1.0000,1.0000,✅ PASS
+Temporal Split,1.0000 (±0.0000),-,-,✅ PASS
+Data Leakage,8 leaked features,-,-,❌ FAIL

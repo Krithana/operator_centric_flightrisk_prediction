@@ -1,0 +1,2 @@
+optimal_threshold,true_positives,false_positives,false_negatives,true_negatives,cost_missed_accidents,cost_false_alarms,benefit_prevented,operational_cost,net_impact,roi_percentage,baseline_cost,savings_with_model,savings_percentage,alert_rate,detection_rate
+0.525,3363,244,1235,12155,6175000000,12200000,10089000000,18035000,3883765000,21534.599390074854,22990000000,16784765000,73.0089821661592,0.2122139201035477,0.731404958677686
